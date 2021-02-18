@@ -22,3 +22,7 @@ DELETE_OUTPUT_DIRECTORY = True
 
 #DISQUS_SITENAME = ""
 #GOOGLE_ANALYTICS = ""
+
+PLUGIN_PATHS = ['C:\Users\lesli\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\pelican-addon-clones\pelican-plugins']
+PLUGINS = ['i18n_subsites','tipue_search']
+THEME = 'pelican-fh5co-marble'

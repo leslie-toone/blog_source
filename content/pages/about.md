@@ -13,6 +13,16 @@ I know a lot has developed in artificial intelligence and data analysis since I 
 studying (via Kaggle, Coursera, and other online resources) artificial intelligence and improving my Python programming skills.  
 I have loved the many available resources that have helped me refresh and improve my data science skills. 
 
-😆
+# Hobbies
+1.**Traveling**  
+2. _Family time_  
+When you want to do a break, type two spaces then hit return  
 
-[my_sweet_photo]: {static}/images/Leslie.jpg
+- ***Family History***
+    - Playing the piano
+
+>Dorothy followed her through many of the beautiful rooms
+
+
+![my_sweet_photo]: (/images/Leslie.jpg)
+
